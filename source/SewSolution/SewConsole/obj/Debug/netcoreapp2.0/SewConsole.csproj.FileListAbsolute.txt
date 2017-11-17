@@ -1,0 +1,11 @@
+E:\Dev\VisualStudio\Projects\Sew\source\SewSolution\SewConsole\bin\Debug\netcoreapp2.0\SewConsole.deps.json
+E:\Dev\VisualStudio\Projects\Sew\source\SewSolution\SewConsole\bin\Debug\netcoreapp2.0\SewConsole.runtimeconfig.json
+E:\Dev\VisualStudio\Projects\Sew\source\SewSolution\SewConsole\bin\Debug\netcoreapp2.0\SewConsole.runtimeconfig.dev.json
+E:\Dev\VisualStudio\Projects\Sew\source\SewSolution\SewConsole\bin\Debug\netcoreapp2.0\SewConsole.dll
+E:\Dev\VisualStudio\Projects\Sew\source\SewSolution\SewConsole\bin\Debug\netcoreapp2.0\SewConsole.pdb
+E:\Dev\VisualStudio\Projects\Sew\source\SewSolution\SewConsole\obj\Debug\netcoreapp2.0\SewConsole.csprojResolveAssemblyReference.cache
+E:\Dev\VisualStudio\Projects\Sew\source\SewSolution\SewConsole\obj\Debug\netcoreapp2.0\SewConsole.csproj.CoreCompileInputs.cache
+E:\Dev\VisualStudio\Projects\Sew\source\SewSolution\SewConsole\obj\Debug\netcoreapp2.0\SewConsole.AssemblyInfoInputs.cache
+E:\Dev\VisualStudio\Projects\Sew\source\SewSolution\SewConsole\obj\Debug\netcoreapp2.0\SewConsole.AssemblyInfo.cs
+E:\Dev\VisualStudio\Projects\Sew\source\SewSolution\SewConsole\obj\Debug\netcoreapp2.0\SewConsole.dll
+E:\Dev\VisualStudio\Projects\Sew\source\SewSolution\SewConsole\obj\Debug\netcoreapp2.0\SewConsole.pdb
